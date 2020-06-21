@@ -1,0 +1,849 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="93281c97-8719-407e-9012-8383275d21f9" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/client/Worker.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2625">
+              <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/SessionImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="675">
+              <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/FactoryImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="820">
+              <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/TaskGroup.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-4255">
+              <caret line="84" selection-start-line="84" selection-end-line="84" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#4367#4368#0" expanded="true" />
+                <element signature="e#4403#4404#0" expanded="true" />
+                <element signature="e#4328#4329#0" expanded="true" />
+                <element signature="e#4356#4357#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/txt/text.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="20568550">
+              <caret line="822742" column="8" selection-start-line="822742" selection-start-column="8" selection-end-line="822742" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/txt/hash.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/client/Client.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="96" column="34" lean-forward="true" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/User.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/DB.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>ola</find>
+      <find>rei</find>
+      <find>luis</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/rmi/SubjectRI.java" />
+        <option value="$PROJECT_DIR$/src/rmi/VisitorRI.java" />
+        <option value="$PROJECT_DIR$/src/rmi/SessionRI.java" />
+        <option value="$PROJECT_DIR$/src/rmi/FactoryRI.java" />
+        <option value="$PROJECT_DIR$/src/rmi/VisitableRI.java" />
+        <option value="$PROJECT_DIR$/src/rmi/TaskGroup.java" />
+        <option value="$PROJECT_DIR$/src/rmi/Worker.java" />
+        <option value="$PROJECT_DIR$/src/rmi/DB.java" />
+        <option value="$PROJECT_DIR$/src/rmi/FactoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/rmi/SessionImpl.java" />
+        <option value="$PROJECT_DIR$/src/rmi/User.java" />
+        <option value="$PROJECT_DIR$/src/rmi/server/FactoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/rmi/client/Worker.java" />
+        <option value="$PROJECT_DIR$/src/rmi/server/DB.java" />
+        <option value="$PROJECT_DIR$/src/rmi/server/TaskGroup.java" />
+        <option value="$PROJECT_DIR$/src/rmi/util/rmisetup/SetupContextRMI.java" />
+        <option value="$PROJECT_DIR$/src/rmi/client/VisitorRI.java" />
+        <option value="$PROJECT_DIR$/src/rmi/runscripts/setenv.bat" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/VisitableRI.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/hashes.txt" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/hash.txt" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/results.txt" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/util/RabbitUtils2.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/text.txt" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/FactoryImpl.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/client/VisitorRI.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/FactoryRI.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/client/results.txt" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/txt/task_queue@1" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/Server.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts_test/runclient.bat" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts_test/setenv.bat" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts_test/runserver.bat" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts/runserver.bat" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts/runclient.bat" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts/setenv.bat" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts_extern/setenv_bat" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts_extern/setenv.bat" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/main.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/DB.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/SessionRI.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/client/ObserverRI.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/SubjectRI.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/client/Client.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/txt/text.txt" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/txt/hash.txt" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/txt/results_task_queue@1" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/User.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/SessionImpl.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/client/Worker.java" />
+        <option value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/TaskGroup.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="2869" />
+    <option name="y" value="-11" />
+    <option name="width" value="2902" />
+    <option name="height" value="1642" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ProjetoSD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetoSD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetoSD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetoSD" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetoSD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetoSD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetoSD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetoSD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="rmi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetoSD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetoSD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="rmi" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ProjetoSD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ProjetoSD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="rmi" type="462c0819:PsiDirectoryNode" />
+              <item name="server" type="462c0819:PsiDirectoryNode" />
+              <item name="txt" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Aguia\IdeaProjects\ProjetoSD\src\edu\ufp\inf\sd\rmi" />
+      <recent name="C:\Users\Aguia\IdeaProjects\ProjetoSD\out\production\ProjetoSD\com" />
+      <recent name="C:\Users\Aguia\IdeaProjects\ProjetoSD\out\production\ProjetoSD" />
+      <recent name="C:\Users\Aguia\IdeaProjects\ProjetoSD\lib" />
+      <recent name="C:\Users\Aguia\IdeaProjects\ProjetoSD\src\edu\ufp\inf\sd\rmi\client" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Aguia\IdeaProjects\ProjetoSD\src\edu\ufp\inf\sd\rmi\server\txt" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.main">
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ufp.inf.sd.rmi.client.Client" />
+      <module name="ProjetoSD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ufp.inf.sd.rmi.client.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ufp.inf.sd.rmi.server.Server" />
+      <module name="ProjetoSD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ufp.inf.sd.rmi.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="edu.ufp.inf.sd.rmi.server.main" />
+      <module name="ProjetoSD" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.ufp.inf.sd.rmi.server.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.main" />
+        <item itemvalue="Application.Client" />
+        <item itemvalue="Application.Server" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="93281c97-8719-407e-9012-8383275d21f9" name="Default Changelist" comment="" />
+      <created>1589577178049</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589577178049</updated>
+      <workItem from="1589577181553" duration="728000" />
+      <workItem from="1589638412352" duration="7764000" />
+      <workItem from="1589661934438" duration="3447000" />
+      <workItem from="1589726363997" duration="6420000" />
+      <workItem from="1589814936697" duration="6000" />
+      <workItem from="1589833626466" duration="1201000" />
+      <workItem from="1589834922883" duration="327000" />
+      <workItem from="1590163783191" duration="12182000" />
+      <workItem from="1590252089887" duration="4616000" />
+      <workItem from="1590849562827" duration="9205000" />
+      <workItem from="1590949142009" duration="348000" />
+      <workItem from="1591023549749" duration="12444000" />
+      <workItem from="1591046722961" duration="2391000" />
+      <workItem from="1591112110076" duration="7103000" />
+      <workItem from="1591306453835" duration="5336000" />
+      <workItem from="1591478389629" duration="4092000" />
+      <workItem from="1591488781652" duration="205000" />
+      <workItem from="1591567024144" duration="755000" />
+      <workItem from="1591567811970" duration="3630000" />
+      <workItem from="1591575037575" duration="1348000" />
+      <workItem from="1591576449404" duration="668000" />
+      <workItem from="1591577977874" duration="64000" />
+      <workItem from="1591624413500" duration="100000" />
+      <workItem from="1591629092545" duration="9000" />
+      <workItem from="1592326887200" duration="4106000" />
+      <workItem from="1592332306372" duration="1040000" />
+      <workItem from="1592333627846" duration="35000" />
+      <workItem from="1592402466688" duration="14312000" />
+      <workItem from="1592491184811" duration="4692000" />
+      <workItem from="1592496221986" duration="14000" />
+      <workItem from="1592500338176" duration="5668000" />
+      <workItem from="1592513110549" duration="5598000" />
+      <workItem from="1592601509486" duration="161000" />
+      <workItem from="1592664666960" duration="4447000" />
+      <workItem from="1592673084187" duration="3010000" />
+      <workItem from="1592690278183" duration="8329000" />
+      <workItem from="1592753714227" duration="4556000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="140357000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="2869" y="-11" width="2902" height="1642" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18469751" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32801664" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3918169" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24965326" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32871014" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.34674063" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32801664" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18469751" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32801664" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3918169" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24965326" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32871014" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.34674063" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32801664" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Database" order="8" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/util/rmisetup/SetupContextRMI.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/hashes.txt" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/results.txt" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/util/RabbitUtils2.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jrt://C:/Program Files/Java/jdk-11.0.5!/java.base/java/lang/invoke/Invokers$Holder.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="521" column="18" selection-start-line="521" selection-start-column="18" selection-end-line="521" selection-end-column="18" />
+          <folding>
+            <element signature="e#17662#17663#0" expanded="true" />
+            <element signature="e#17723#17724#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/net/SocketInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1550">
+          <caret line="92" column="23" selection-start-line="92" selection-start-column="23" selection-end-line="92" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/amqp-client-5.9.0.jar!/com/rabbitmq/client/AMQP.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="1177" selection-start-line="1177" selection-end-line="1177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/amqp-client-5.9.0.jar!/com/rabbitmq/client/impl/ChannelN.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="797">
+          <caret line="806" selection-start-line="806" selection-end-line="806" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/amqp-client-5.9.0.jar!/com/rabbitmq/client/impl/recovery/AutorecoveringChannel.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="505" selection-start-line="505" selection-end-line="505" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/amqp-client-5.9.0.jar!/com/rabbitmq/client/impl/ConsumerDispatcher.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+          <folding>
+            <element signature="e#3469#3893#0" expanded="true" />
+            <element signature="e#3892#3893#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/amqp-client-5.9.0.jar!/com/rabbitmq/client/impl/ConsumerWorkService.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="104" selection-start-line="104" selection-end-line="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/VisitableRI.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/client/VisitorRI.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/client/results.txt" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/txt/task_queue@1" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/securitypolicies/rmid.policy">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts_test/runclient.bat" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts_test/runpython.bat" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts_test/runsetup.bat" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts_test/setenv.bat" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts_test/runserver.bat" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/io/ObjectInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="429" selection-start-line="429" selection-end-line="429" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/lang/Override.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="52" column="18" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/FactoryRI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="21" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="48" column="84" selection-start-line="48" selection-start-column="84" selection-end-line="48" selection-end-column="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts/runserver.bat" />
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.rmi/sun/rmi/server/UnicastServerRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="8175">
+          <caret line="387" selection-start-line="387" selection-end-line="387" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts/runpython.bat" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts/runclient.bat" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts/setenv.bat" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/util/RabbitUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/main.java" />
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts_extern/runclient.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts_extern/runserver.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/runscripts_extern/setenv.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="102" column="42" selection-start-line="102" selection-start-column="42" selection-end-line="102" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.rmi/sun/rmi/server/UnicastRef.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="193" selection-start-line="193" selection-end-line="193" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk-11.0.5/lib/src.zip!/java.base/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="833" selection-start-line="833" selection-end-line="833" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/client/ObserverRI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/SubjectRI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/lib/amqp-client-5.9.0.jar!/com/rabbitmq/client/DeliverCallback.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/SessionRI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="695">
+          <caret line="28" column="16" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/client/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="96" column="34" lean-forward="true" selection-start-line="96" selection-start-column="34" selection-end-line="96" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/txt/text.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20568550">
+          <caret line="822742" column="8" selection-start-line="822742" selection-start-column="8" selection-end-line="822742" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/txt/hash.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/SessionImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="5" lean-forward="true" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/client/Worker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2625">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/DB.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="15" column="34" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/FactoryImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="820">
+          <caret line="42" column="21" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="25" lean-forward="true" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/txt/results_task_queue@1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/edu/ufp/inf/sd/rmi/server/TaskGroup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4255">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#4367#4368#0" expanded="true" />
+            <element signature="e#4403#4404#0" expanded="true" />
+            <element signature="e#4328#4329#0" expanded="true" />
+            <element signature="e#4356#4357#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="library" />
+              <type id="javaee-facet-resources" />
+              <type id="jpa-descriptors" />
+              <type id="artifact" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>ProjetoSD</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.61206895" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>ProjetoSD</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
